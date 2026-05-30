@@ -4,7 +4,7 @@
 
 - Building [Decyra](https://www.decyra.gr/)
 
-- Studying IT at [AUEB](https://www.aueb.gr)
+- Studying CS at [AUEB](https://www.aueb.gr)
 
 
 <h3 align="left">Languages and Tools:</h3>
