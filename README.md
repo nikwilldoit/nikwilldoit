@@ -78,29 +78,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="google cloud" width="40" height="40"/>
   </a>
 
-  <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/openai" alt="openai" width="40" height="40"/>
-  </a>
-
-  <a href="https://cohere.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/cohere" alt="cohere" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/pinecone" alt="pinecone" width="40" height="40"/>
-  </a>
-
-  <a href="https://developers.google.com/ml-kit" target="_blank" rel="noreferrer">
-    <img src="https://developers.google.com/static/ml-kit/images/home/google-ml-kit-logo.svg" alt="mlkit" width="40" height="40"/>
-  </a>
-
   <a href="https://github.com/davidsandberg/facenet" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" alt="facenet" width="40" height="40"/>
   </a>
 
-  <a href="https://webrtc.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/WebRTC_logo.svg" alt="webrtc" width="40" height="40"/>
-  </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="http" width="40" height="40"/>
@@ -110,7 +91,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="posix" width="40" height="40"/>
   </a>
 
-  <a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/openai" alt="rag" width="40" height="40"/>
-  </a>
 </p>
