@@ -58,7 +58,7 @@
 
 <!-- Jetpack Compose -->
 <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
-  <img src="https://3.bp.blogspot.com/-64Q8Qb6H6eA/X4D4wL7g2XI/AAAAAAAAPx8/4s6H8B6m5E4D1mM2xM0QbR0W9J8sK7HbgCLcBGAsYHQ/s1600/jetpack-compose-icon_RGB.png" alt="jetpack compose" width="40" height="40"/>
+  <img src="[https://3.bp.blogspot.com/-64Q8Qb6H6eA/X4D4wL7g2XI/AAAAAAAAPx8/4s6H8B6m5E4D1mM2xM0QbR0W9J8sK7HbgCLcBGAsYHQ/s1600/jetpack-compose-icon_RGB.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Jetpack_Compose_logo.png/250px-Jetpack_Compose_logo.png)" alt="jetpack compose" width="40" height="40"/>
 </a>
 
 <!-- Blender -->
