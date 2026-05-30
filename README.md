@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I’m Nikolas! 👩🏻‍💻</h1>
+<h1 align="center">Hey there, I’m Nikolas!</h1>
 
 21y/o dev, passionate about creating cool stuff
 
