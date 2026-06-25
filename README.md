@@ -6,7 +6,7 @@
 
 - Studying CS at [AUEB](https://www.aueb.gr)
 
-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://username.github.io/repo-name/)
+- Check out my portfolio: [Portfolio](https://www.aueb.gr)
 
 
 <h3 align="left">Languages and Tools:</h3>
