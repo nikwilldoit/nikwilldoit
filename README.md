@@ -6,6 +6,8 @@
 
 - Studying CS at [AUEB](https://www.aueb.gr)
 
+- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://username.github.io/repo-name/)
+
 
 <h3 align="left">Languages and Tools:</h3>
 
