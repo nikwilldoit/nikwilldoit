@@ -5,7 +5,6 @@
 - Building [Decyra](https://www.decyra.gr/)
 
 - Studying CS at [AUEB](https://www.aueb.gr)
-  
 
 - Check out my portfolio: [Portfolio](https://nikwilldoit.github.io/Personal-Website/)
 
