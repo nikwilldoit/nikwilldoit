@@ -6,7 +6,7 @@
 
 - Studying CS at [AUEB](https://www.aueb.gr)
 
-- Check out my portfolio: [Portfolio](https://www.aueb.gr)
+- Check out my portfolio: [Portfolio](https://github.com/nikwilldoit/Personal-Website)
 
 
 <h3 align="left">Languages and Tools:</h3>
