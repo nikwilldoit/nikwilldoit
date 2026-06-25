@@ -92,6 +92,4 @@
 
 ### 📈 My Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikwilldoit&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikwilldoit&layout=compact&theme=radical)
