@@ -6,10 +6,7 @@
 
 - Studying CS at [AUEB](https://www.aueb.gr)
 
-- Check out my portfolio:
-- <a href="https://mariaschoinaki.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Badge"/>
-  </a>
+- Check out my portfolio: [Portfolio]([https://www.aueb.gr](https://github.com/nikwilldoit/Personal-Website))
 
 
 <h3 align="left">Languages and Tools:</h3>
