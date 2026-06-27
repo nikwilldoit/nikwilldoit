@@ -8,6 +8,7 @@
 
 - Check out my portfolio: [Portfolio](https://nikwilldoit.github.io/portfolio/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikwilldoit&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 
