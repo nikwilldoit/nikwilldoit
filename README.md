@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I’m Nikolas!</h1>
 
-21y/o dev, passionate about creating cool stuff
+20y/o dev, passionate about creating cool stuff
 
 - Building [Decyra](https://www.decyra.gr/)
 
