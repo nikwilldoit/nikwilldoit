@@ -2,7 +2,7 @@
 
 20-year-old, Computer Science student at the [AUEB](https://www.aueb.gr) , with Erasmus+ academic experience at [Vilnius University](https://www.vu.lt/). Interested in backend development, cloud technologies, distributed systems, parallel computing, and Android development.
 
-- Building [Decyra's](https://www.decyra.gr/) Web Application
+- Building [Decyra's](https://github.com/nikwilldoit/Decyra) Web Application
   
 - Check out my portfolio: [Portfolio](https://nikwilldoit.github.io/portfolio/)
 
