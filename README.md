@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I’m Nikolas!</h1>
 
-21 y/o, Computer Science student at the [AUEB](https://www.aueb.gr) , with Erasmus+ academic experience at [Vilnius University](https://www.vu.lt/). Interested in Backend and Frontend development, cloud technologies, distributed systems, parallel computing, software testing and Android development.
+21 y/o, Computer Science student at the [AUEB](https://www.aueb.gr/en) , with Erasmus+ academic experience at [Vilnius University](https://www.vu.lt/en). Interested in Backend and Frontend development, cloud technologies, distributed systems, parallel computing, software testing and Android development.
 
 - Building [Decyra's](https://github.com/nikwilldoit/Decyra) Web Application
   
