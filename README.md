@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I’m Nikolas!</h1>
+<h1 align="center">Hi, I’m Nikolas!</h1>
 
 21 y/o, Computer Science student at the [AUEB](https://www.aueb.gr/en) , with Erasmus+ academic experience at [Vilnius University](https://www.vu.lt/en). Interested in Backend & Frontend development, Cloud Technologies, Distributed Systems, Parallel Computing, Software Testing and Android development.
 
