@@ -2,7 +2,8 @@
 
 21 y/o, Computer Science student at the [AUEB](https://www.aueb.gr/en) , with Erasmus+ academic experience at [Vilnius University](https://www.vu.lt/en). Passionate about Backend & Frontend development, Cloud Technologies, Distributed Systems, Parallel Computing, Software Testing and Android development, with experience in building scalable applications and modern software architectures.
 
-- Building [PitosPies](https://github.com/nikwilldoit/PitosPies) RESTfull Web Services
+- Building [PitosPies](https://github.com/nikwilldoit/PitosPies) RESTfull Web Services.
+- Building [University-IT-Helpdesk-System](https://github.com/nikwilldoit/University-IT-Helpdesk-System) Web Application.
   
 - Check out my portfolio: [Portfolio](https://nikwilldoit.github.io/portfolio/)
 
