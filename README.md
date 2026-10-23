@@ -4,8 +4,6 @@
 
 - Building [University-IT-Helpdesk-System](https://github.com/nikwilldoit/University-IT-Helpdesk-System) Web Application.
   
-- Check out my portfolio: [Portfolio](https://nikwilldoit.github.io/portfolio/)
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
