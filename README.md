@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I’m Nikolas!</h1>
 
-21 y/o, Computer Science student at the [AUEB](https://www.aueb.gr/en) , with Erasmus+ academic experience at [Vilnius University](https://www.vu.lt/en). Passionate about Backend & Frontend development, Cloud Technologies, Distributed Systems, Parallel Computing, Software Testing and Android development, with experience in building scalable applications and modern software architectures.
+21 y/o, Computer Science student at the [AUEB](https://www.aueb.gr/en) , with Erasmus+ academic experience at [Vilnius University](https://www.vu.lt/en).
 
-- Building [University-IT-Helpdesk-System](https://github.com/nikwilldoit/University-IT-Helpdesk-System) Web Application.
+Passionate about Backend & Frontend development, Cloud Technologies, Distributed Systems, Parallel Computing, Software Testing and Android development, with experience in building scalable applications and modern software architectures.
   
 <h3 align="left">Languages and Tools:</h3>
 
